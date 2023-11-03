@@ -35,6 +35,7 @@ Summarize the results of the machine learning models, and include a recommendati
 * Which one seems to perform best? How do you know it performs best?
 Model 2 performs best as the balanced accuracy score is higher as well as the recall for both loan labels.
 * Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
+
 Yes, I believe it is more important to predict the '1's.
 
 If you do not recommend any of the models, please justify your reasoning.
